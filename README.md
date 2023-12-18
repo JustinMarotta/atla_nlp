@@ -1,7 +1,12 @@
 atla
 ==============================
 
-properly implement sentiment analysis using a transformer architecture #perform tokenization and preprocessing from scratch #finetune existing transformer architecture on processed transcripts from Avatar: The Last Airbender #showcase how each character's sentiment/emotion changes over the course of the show (Aang, Katara, Sokka, Toph, Zuko, Iroh) #showcase how to use the model to predict sentiment on unseen data #gain insights into the show's storytelling from a psychological perspective
+Implement sentiment analysis first using VADER and then transformer architecture
+-perform tokenization and preprocessing from scratch 
+-finetune existing transformer architecture on processed transcripts from Avatar: The Last Airbender
+-showcase how each character's sentiment/emotion changes over the course of the show (Aang, Katara, Sokka, Toph, Zuko, Iroh) 
+-showcase how to use the model to predict sentiment on unseen data 
+-gain insights into the show's storytelling from a psychological perspective
 
 Project Organization
 ------------
