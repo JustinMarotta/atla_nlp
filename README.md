@@ -1,12 +1,22 @@
-atla
+Avatar: The Last Airbender NLP Experiments
 ==============================
 
-Implement sentiment analysis first using VADER and then transformer architecture
--perform tokenization and preprocessing from scratch 
--finetune existing transformer architecture on processed transcripts from Avatar: The Last Airbender
--showcase how each character's sentiment/emotion changes over the course of the show (Aang, Katara, Sokka, Toph, Zuko, Iroh) 
--showcase how to use the model to predict sentiment on unseen data 
--gain insights into the show's storytelling from a psychological perspective
+1. Perform web scraping, tokenization and preprocessing from scratch 
+
+2. Implement sentiment analysis to gain insights into the show's storytelling from a psychological perspective
+
+    -Showcase how each character's sentiment/emotion changes over the course of the show (Aang, Katara, Sokka, Toph, Zuko, Iroh) 
+
+3. Leverage Latent Dirichlet Allocation (LDA) for topic modeling to identify most similar episodes
+
+4. Predict character spoken dialogue using Word2Vec and Neural Network architecture
+
+
+Future:
+
+-Finetune LSTM & transformer architectures on processed transcripts for dialogue prediction
+
+-Compare dialogue prediction with and without sentiment and learned topics as features
 
 Project Organization
 ------------
