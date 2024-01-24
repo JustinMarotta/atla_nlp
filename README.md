@@ -1,6 +1,8 @@
 Avatar: The Last Airbender NLP Experiments
 ==============================
 
+The Notebooks in this repository contain the following experiments:
+
 1. Perform web scraping, tokenization and preprocessing from scratch 
 
 2. Implement sentiment analysis to gain insights into the show's storytelling from a psychological perspective
